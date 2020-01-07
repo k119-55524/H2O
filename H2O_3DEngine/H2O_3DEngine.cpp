@@ -1,10 +1,4 @@
-﻿// H2O_3DEngine.cpp : Определяет функции для статической библиотеки.
-//
-
-#include "pch.h"
+﻿#include "pch.h"
 #include "framework.h"
+#include "H2O_3DEngine.h"
 
-// TODO: Это пример библиотечной функции.
-void fnH2O3DEngine()
-{
-}
